@@ -1,0 +1,33 @@
+# File
+Size:
+      Empty.	               	[property blank]
+      Not empty.
+Copies of files:
+      None.			
+      One.			[error] [if !blank]
+      Many.							
+The amount of dictories and files are have been copied:
+      None.			
+      One.			
+      Many.			[if !blank]	
+
+# Pattern
+Files beign backed up:
+      Yes.			[single]      [property save]
+      No.	
+Forcefully oopening files:		
+      Open.
+      Not Open.	
+Removing certain files:
+      Removed.			[if !blank && save]
+      	Not Removed.	
+Number of files being backup:
+	Zero.			[single]
+	Many.
+Recursive of directory:
+	None.    	
+	Many.		
+# Filename
+Making copy of the certain files:
+      Not present.		
+      Present.

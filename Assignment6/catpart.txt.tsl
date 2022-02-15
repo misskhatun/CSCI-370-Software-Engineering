@@ -1,0 +1,972 @@
+
+Test Case 1  		<error>
+   Copies of files :  One
+
+
+Test Case 2  		<single>
+   Files beign backed up :  Yes
+
+
+Test Case 3  		<single>
+   Number of files being backup :  Zero
+
+
+Test Case 4  		(Key = 1.1.1.2.1.2.2.1.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 5  		(Key = 1.1.1.2.1.2.2.1.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 6  		(Key = 1.1.1.2.1.2.2.2.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 7  		(Key = 1.1.1.2.1.2.2.2.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 8  		(Key = 1.1.1.2.2.2.2.1.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 9  		(Key = 1.1.1.2.2.2.2.1.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 10 		(Key = 1.1.1.2.2.2.2.2.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 11 		(Key = 1.1.1.2.2.2.2.2.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 12 		(Key = 1.1.2.2.1.2.2.1.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 13 		(Key = 1.1.2.2.1.2.2.1.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 14 		(Key = 1.1.2.2.1.2.2.2.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 15 		(Key = 1.1.2.2.1.2.2.2.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 16 		(Key = 1.1.2.2.2.2.2.1.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 17 		(Key = 1.1.2.2.2.2.2.1.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 18 		(Key = 1.1.2.2.2.2.2.2.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 19 		(Key = 1.1.2.2.2.2.2.2.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 20 		(Key = 1.3.1.2.1.2.2.1.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 21 		(Key = 1.3.1.2.1.2.2.1.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 22 		(Key = 1.3.1.2.1.2.2.2.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 23 		(Key = 1.3.1.2.1.2.2.2.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 24 		(Key = 1.3.1.2.2.2.2.1.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 25 		(Key = 1.3.1.2.2.2.2.1.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 26 		(Key = 1.3.1.2.2.2.2.2.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 27 		(Key = 1.3.1.2.2.2.2.2.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 28 		(Key = 1.3.2.2.1.2.2.1.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 29 		(Key = 1.3.2.2.1.2.2.1.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 30 		(Key = 1.3.2.2.1.2.2.2.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 31 		(Key = 1.3.2.2.1.2.2.2.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 32 		(Key = 1.3.2.2.2.2.2.1.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 33 		(Key = 1.3.2.2.2.2.2.1.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 34 		(Key = 1.3.2.2.2.2.2.2.1.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 35 		(Key = 1.3.2.2.2.2.2.2.2.)
+   Size                                                   :  Empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 36 		(Key = 2.1.1.2.1.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 37 		(Key = 2.1.1.2.1.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 38 		(Key = 2.1.1.2.1.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 39 		(Key = 2.1.1.2.1.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 40 		(Key = 2.1.1.2.2.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 41 		(Key = 2.1.1.2.2.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 42 		(Key = 2.1.1.2.2.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 43 		(Key = 2.1.1.2.2.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 44 		(Key = 2.1.2.2.1.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 45 		(Key = 2.1.2.2.1.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 46 		(Key = 2.1.2.2.1.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 47 		(Key = 2.1.2.2.1.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 48 		(Key = 2.1.2.2.2.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 49 		(Key = 2.1.2.2.2.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 50 		(Key = 2.1.2.2.2.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 51 		(Key = 2.1.2.2.2.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 52 		(Key = 2.1.3.2.1.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 53 		(Key = 2.1.3.2.1.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 54 		(Key = 2.1.3.2.1.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 55 		(Key = 2.1.3.2.1.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 56 		(Key = 2.1.3.2.2.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 57 		(Key = 2.1.3.2.2.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 58 		(Key = 2.1.3.2.2.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 59 		(Key = 2.1.3.2.2.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  None
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 60 		(Key = 2.3.1.2.1.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 61 		(Key = 2.3.1.2.1.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 62 		(Key = 2.3.1.2.1.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 63 		(Key = 2.3.1.2.1.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 64 		(Key = 2.3.1.2.2.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 65 		(Key = 2.3.1.2.2.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 66 		(Key = 2.3.1.2.2.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 67 		(Key = 2.3.1.2.2.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  None
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 68 		(Key = 2.3.2.2.1.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 69 		(Key = 2.3.2.2.1.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 70 		(Key = 2.3.2.2.1.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 71 		(Key = 2.3.2.2.1.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 72 		(Key = 2.3.2.2.2.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 73 		(Key = 2.3.2.2.2.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 74 		(Key = 2.3.2.2.2.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 75 		(Key = 2.3.2.2.2.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  One
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 76 		(Key = 2.3.3.2.1.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 77 		(Key = 2.3.3.2.1.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 78 		(Key = 2.3.3.2.1.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 79 		(Key = 2.3.3.2.1.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+
+
+Test Case 80 		(Key = 2.3.3.2.2.2.2.1.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 81 		(Key = 2.3.3.2.2.2.2.1.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  None
+   Making copy of the certain files                       :  Present
+
+
+Test Case 82 		(Key = 2.3.3.2.2.2.2.2.1.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Not present
+
+
+Test Case 83 		(Key = 2.3.3.2.2.2.2.2.2.)
+   Size                                                   :  Not empty
+   Copies of files                                        :  Many
+   The amount of dictories and files are have been copied :  Many
+   Files beign backed up                                  :  No
+   Forcefully oopening files                              :  Not Open
+   Removing certain files                                 :  Not Removed
+   Number of files being backup                           :  Many
+   Recursive of directory                                 :  Many
+   Making copy of the certain files                       :  Present
+

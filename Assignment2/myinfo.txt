@@ -1,0 +1,7 @@
+Miss Khatun
+Zip code: 11433
+<<<<<<< HEAD
+Phone number: 347-667-8829
+=======
+Git username: Miss Khatun
+>>>>>>> 12dbbda01fb7701fde9d4b27bc2a56c82017d0bc
